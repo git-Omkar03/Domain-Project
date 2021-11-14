@@ -455,3 +455,4 @@ $RECYCLE.BIN/
 
 appsettings.json
 Portal.db
+appsettings.Development.json
